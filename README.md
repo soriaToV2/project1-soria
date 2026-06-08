@@ -26,8 +26,8 @@ Track 5 Social Impact
 To run the web interface with testnet payments enabled:
 
 ```bash
-git clone https://github.com/[your-github-username]/project1.git
-cd project1/web
+git clone https://github.com/soriaToV2/project1-soria.git
+cd project1-soria/web
 npm install
 npm run dev
 ```
@@ -48,7 +48,7 @@ Restart `npm run dev` after deployment.
 - Asset issuers: N/A
 
 ## Team
-- [Your Name] — @[your-github-username]
+- Marc Angelo Soria — @soriaToV2
 
 ## License
 MIT
