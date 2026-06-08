@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+web/node_modules/
+
+# Next.js build output
+.next/
+web/.next/
+out/
+web/out/
+build/
+web/build/
+
+# Rust/Cargo build output
+target/
+contracts/target/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables & secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+web/.env*
+
+# TypeScript
+*.tsbuildinfo
+web/*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
