@@ -47,7 +47,7 @@ Restart `npm run dev` after deployment.
 - Contract IDs: N/A
 - Asset issuers: N/A
 
-## Team
+## Solo Developer
 - Marc Angelo Soria — @soriaToV2
 
 ## License
